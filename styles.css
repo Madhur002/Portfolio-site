@@ -15,7 +15,7 @@
     --bg-color: #ffffff;
     --second-bg-color: #ffffff;
     --text-color: #000000;
-    --main-color:rgb(20, 60, 54);
+    --main-color:rgb(60, 111, 204);
 }
 
 html{
@@ -225,7 +225,7 @@ span{
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
-    border: solid var(--main-color) 15px;
+    border: solid var(--main-color) 5px;
 }
 
 .portfolio-box{
@@ -580,7 +580,7 @@ span{
     font-weight: 600;
     font-size: 20px;
     position: relative;
-    background-color: #6c459e;
+    background-color: #999999;
     border-radius: 20px;
     padding: 1px 15px;
     color: white;
@@ -589,7 +589,7 @@ span{
 .skills-bar .bar{
     width: 100%;
     height: 20px;
-    background-color:#6c459e;
+    background-color: #999999;
     border-radius: 10px;
     margin-top: 15px;
     margin-bottom: 10px;
